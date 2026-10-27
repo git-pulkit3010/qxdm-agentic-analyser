@@ -3,3 +3,6 @@
 **/__pycache__/**
 data/
 *.db
+*.db-wal
+*.db-shm
+*.db.bak*
